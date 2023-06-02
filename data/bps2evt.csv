@@ -1,0 +1,92 @@
+GROUPVEG,EVT_PHYS,Sum - acres,Sum - acres
+BPS  Conifer,EVT  Agricultural,3789,3789
+,EVT  Conifer,244758,22238
+,EVT  Conifer-Hardwood,0,1020
+,EVT  Developed,13843,290
+,EVT  Developed-High Intensity,648,234134
+,EVT  Developed-Low Intensity,4318,368463
+,EVT  Developed-Medium Intensity,2251,244758
+,EVT  Developed-Roads,15710,38365
+,EVT  Exotic Herbaceous,1616,1342
+,EVT  Exotic Tree-Shrub,2185,4249
+,EVT  Grassland,18350,31029
+,EVT  Hardwood,9,132221
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,1333,0
+,EVT  Riparian,5119,0
+,EVT  Shrubland,206311,1616
+,EVT  Sparsely Vegetated,470,7757
+BPS  Grassland,EVT  Agricultural,22238,361
+,EVT  Conifer,38365,241
+,EVT  Developed,6118,7892
+,EVT  Developed-High Intensity,63,46795
+,EVT  Developed-Low Intensity,1024,2185
+,EVT  Developed-Medium Intensity,348,1550
+,EVT  Developed-Roads,7584,2
+,EVT  Exotic Herbaceous,7757,2
+,EVT  Exotic Tree-Shrub,1550,659
+,EVT  Grassland,47662,4976
+,EVT  Hardwood,2,18350
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,198,47662
+,EVT  Riparian,2833,447
+,EVT  Shrubland,349009,357
+,EVT  Sparsely Vegetated,1360,5037
+BPS  Hardwood,EVT  Agricultural,1020,165640
+,EVT  Conifer,1342,9
+,EVT  Developed,33,2
+,EVT  Developed-Low Intensity,16,8
+,EVT  Developed-Medium Intensity,4,9
+,EVT  Developed-Roads,52,1
+,EVT  Exotic Herbaceous,361,1
+,EVT  Exotic Tree-Shrub,2,1333
+,EVT  Grassland,447,198
+,EVT  Hardwood,8,1
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,1,3
+,EVT  Riparian,2422,80
+,EVT  Shrubland,1513,1266
+,EVT  Sparsely Vegetated,1,5119
+BPS  Hardwood-Conifer,EVT  Agricultural,290,2833
+,EVT  Conifer,4249,2422
+,EVT  Conifer-Hardwood,0,761
+,EVT  Developed,29,78624
+,EVT  Developed-Low Intensity,6,63470
+,EVT  Developed-Medium Intensity,1,206311
+,EVT  Developed-Roads,51,349009
+,EVT  Exotic Herbaceous,241,1513
+,EVT  Exotic Tree-Shrub,2,1394
+,EVT  Grassland,357,33893
+,EVT  Hardwood,9,1428822
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,3,470
+,EVT  Riparian,761,1360
+,EVT  Shrubland,1394,1
+,EVT  Sparsely Vegetated,0,0
+BPS  Riparian,EVT  Agricultural,234134,63
+,EVT  Conifer,31029,3799
+,EVT  Developed,13666,13843
+,EVT  Developed-High Intensity,346,648
+,EVT  Developed-Low Intensity,2579,4318
+,EVT  Developed-Medium Intensity,1452,2251
+,EVT  Developed-Roads,15667,15710
+,EVT  Exotic Herbaceous,7892,6118
+,EVT  Exotic Tree-Shrub,659,63
+,EVT  Grassland,5037,1024
+,EVT  Hardwood,1,348
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,80,7584
+,EVT  Riparian,78624,33
+,EVT  Shrubland,33893,16
+,EVT  Sparsely Vegetated,63,4
+BPS  Shrubland,EVT  Agricultural,368463,52
+,EVT  Conifer,132221,29
+,EVT  Developed,30589,6
+,EVT  Developed-High Intensity,968,1
+,EVT  Developed-Low Intensity,5961,51
+,EVT  Developed-Medium Intensity,3526,13666
+,EVT  Developed-Roads,42615,346
+,EVT  Exotic Herbaceous,46795,2579
+,EVT  Exotic Tree-Shrub,4976,1452
+,EVT  Grassland,165640,15667
+,EVT  Hardwood,1,30589
+,EVT  Quarries-Strip Mines-Gravel Pits-Well and Wind Pads,1266,968
+,EVT  Riparian,63470,5961
+,EVT  Shrubland,1428822,3526
+,EVT  Sparsely Vegetated,3799,42615
+Total Result,,3745670,3745670
