@@ -26,6 +26,7 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 * Broadly speaking, this subregion has not experienced significant ecosystem conversion.  
 * Most of the area currently mapped as agriculture was previously mapped as "riparian" or "shrubland".  
 * Nearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas.
+* Note: number presented when hovering equals acres.
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data

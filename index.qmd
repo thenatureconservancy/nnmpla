@@ -3,7 +3,7 @@ title: "Northern New Mexico Plateau Subregion Landscape Assessment"
 author: "Alex Mezera, Conservation Data Lab"
 ---
 
-## Goals of this quick demonstration
+## Goals of this demonstration
 
 We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 
@@ -20,7 +20,7 @@ This demonstration will:
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products
 * Facilitate an understanding of historical and current conditions on a regional scale
 
-## Assessment Location
+## Location
 
 The SRFSN Northern New Mexico Plateau Subregion is located in south/central Colorado, north/central New Mexico [Read more](https://www.southernrockiesfirescience.org/wyoming-sagebrush/){target="blank"}. 
 
@@ -69,9 +69,10 @@ quickmap
 
 ## How to use this web report
 
-* All maps, input datasets and further assistance can be obtained by contacting the authors, [Randy Swaty](mailto:rswaty@tnc.org) or [Alex Mezera](mailto:alex.mezera@gmail.com).
-* QAQC is ongoing
+* All maps, input datasets and further assistance can be obtained by contacting the authors, [Randy Swaty](mailto:rswaty@tnc.org), Nature Conservancy Ecologist, Conservation Data Lab co-lead or [Alex Mezera](mailto:alex.mezera@gmail.com).
+* Review is ongoing
 * To share this web app, simply share the hyperlink
+* Toggle between dark and light display of this site in the upper right corner of the page
 
 
 
