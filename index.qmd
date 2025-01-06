@@ -3,6 +3,13 @@ title: "Northern New Mexico Plateau Subregion Landscape Assessment"
 author: "Alex Mezera, Conservation Data Lab"
 ---
 
+
+<font size="4"> 
+**These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options. **
+
+</font> 
+
+
 ## Goals of this demonstration
 
 We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
